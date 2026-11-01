@@ -23,4 +23,7 @@ Modelar el préstamo y la devolución de un libro.
 - Orden temporal de los mensajes de un diagrama de secuencia.
 - Condiciones de guarda y transiciones de estado.
 
-  
+## Ejercicios de práctica
+1. Describir los actores y tres casos de uso de la biblioteca.
+2. Dibujar el diagrama de actividad del préstamo, incluyendo libro disponible/no disponible.
+3. Dibujar una secuencia Socio–Sistema–Catalogo para solicitar un préstamo.
