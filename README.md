@@ -13,7 +13,7 @@ IntelliJ IDEA, Git, GitHub, JDK y Markdown.
 Eduardo Gutiérrez Viera
 
 ## Índice
-- [Unidad 01 - Desarrollo de software y metodologías](unidad-01/)
+- [Unidad 01 - Desarrollo de software y metodologías](unidad-01)
 
 ## Estado
 En construcción.
