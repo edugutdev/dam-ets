@@ -14,6 +14,7 @@ Eduardo Gutiérrez Viera
 
 ## Índice
 - [Unidad 01 - Desarrollo de software y metodologías](unidad-01/)
+- [Unidad 02 - Instalación, configuración y uso de entornos de desarrollo](unidad-02/)
 
 ## Estado
 En construcción.
