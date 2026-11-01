@@ -28,3 +28,5 @@ Proponer mejoras sobre un método largo que gestiona préstamos.
 2. Proponer una refactorización mediante extracción de métodos.
 3. Explicar cómo comprobar que las salidas se mantienen tras el cambio.
 
+## Revisión desde GitHub
+Refactorizar mejora la mantenibilidad sin alterar el comportamiento observable.
